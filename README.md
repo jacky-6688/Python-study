@@ -1,6 +1,7 @@
 # python-study
 python program study note,step by step.so we can improve our programe level every day.
 ![image](https://github.com/user-attachments/assets/9ee0547e-5a7e-4809-93dc-4b889621db37)
+![image](https://github.com/user-attachments/assets/137888f4-d5e4-437c-a8cf-b81a73727a42)
 
 
 捐赠：
